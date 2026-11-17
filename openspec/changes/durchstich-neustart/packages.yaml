@@ -1,9 +1,0 @@
-contracts: []
-packages:
-  - key: zaehler
-    section: 1
-    writes:
-      - src/neustart/**
-    covers:
-      ac:
-        - REQ-1/AC-1
