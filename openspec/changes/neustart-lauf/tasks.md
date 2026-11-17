@@ -28,7 +28,7 @@
 - [x] 4.2 Datei `src/neustart/delta/2.txt` mit der einzigen Zeile `2` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [x] 4.3 Datei `src/neustart/delta/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [x] 4.4 Datei `src/neustart/delta/4.txt` mit der einzigen Zeile `4` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
-- [ ] 4.5 Datei `src/neustart/delta/5.txt` mit der einzigen Zeile `5` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
+- [x] 4.5 Datei `src/neustart/delta/5.txt` mit der einzigen Zeile `5` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 
 ## 5. Ordner echo
 
