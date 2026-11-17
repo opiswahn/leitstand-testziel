@@ -1,0 +1,16 @@
+contracts: []
+packages:
+  - key: hallo
+    section: 1
+    writes:
+      - src/durchstich/hallo.txt
+    covers:
+      ac:
+        - REQ-1/AC-1
+  - key: welt
+    section: 2
+    writes:
+      - src/durchstich/welt.txt
+    covers:
+      ac:
+        - REQ-1/AC-2
