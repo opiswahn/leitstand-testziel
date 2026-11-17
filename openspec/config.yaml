@@ -1,0 +1,3 @@
+rules:
+  proposal:
+    - Das Proposal MUSS einen Abschnitt „## Anforderungen“ mit einer Liste der betroffenen REQ-IDs enthalten (z. B. „- REQ-12“), damit der Leitstand den Change der Anforderung zuordnen kann.

@@ -1,0 +1,17 @@
+# Vom Leitstand vorgeschlagen (Konventions-PR).
+# Dieser Workflow löst auf Integrations-Branches des Leitstands aus. Ersetze den Schritt unten durch
+# den Aufruf der vorhandenen CI, z. B. per "uses: ./.github/workflows/<ci>.yml" (der Ziel-Workflow
+# braucht dafür den Auslöser "workflow_call") oder durch dieselben Build- und Testschritte.
+name: Leitstand Integration
+on:
+  push:
+    branches:
+      - "leitstand/integration/**"
+jobs:
+  integration:
+    runs-on: ubuntu-latest
+    steps:
+      - name: CI-Schritte eintragen
+        run: |
+          echo "Bitte die CI des Repositorys hier einbinden (siehe Kommentar am Dateianfang)." >&2
+          exit 1
