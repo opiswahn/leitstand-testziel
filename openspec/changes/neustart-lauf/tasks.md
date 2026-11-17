@@ -16,7 +16,7 @@
 
 ## 3. Ordner charlie
 
-- [ ] 3.1 Datei `src/neustart/charlie/1.txt` mit der einzigen Zeile `1` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
+- [x] 3.1 Datei `src/neustart/charlie/1.txt` mit der einzigen Zeile `1` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [ ] 3.2 Datei `src/neustart/charlie/2.txt` mit der einzigen Zeile `2` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [ ] 3.3 Datei `src/neustart/charlie/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [ ] 3.4 Datei `src/neustart/charlie/4.txt` mit der einzigen Zeile `4` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
