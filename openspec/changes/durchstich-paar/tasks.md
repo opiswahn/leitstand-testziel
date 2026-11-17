@@ -4,4 +4,4 @@
 
 ## 2. Zweite Datei
 
-- [ ] 2.1 Datei `src/paar/zwei.txt` mit der einzigen Zeile `zwei` anlegen
+- [x] 2.1 Datei `src/paar/zwei.txt` mit der einzigen Zeile `zwei` anlegen
