@@ -1,6 +1,6 @@
 ## 1. Erste Datei
 
-- [ ] 1.1 Datei `src/paar/eins.txt` mit der einzigen Zeile `eins` anlegen
+- [x] 1.1 Datei `src/paar/eins.txt` mit der einzigen Zeile `eins` anlegen
 
 ## 2. Zweite Datei
 
