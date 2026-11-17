@@ -1,0 +1,30 @@
+contracts: []
+packages:
+  - key: foxtrot
+    section: 1
+    writes:
+      - src/neustart2/foxtrot/**
+    covers:
+      ac:
+        - REQ-3/AC-1
+  - key: golf
+    section: 2
+    writes:
+      - src/neustart2/golf/**
+    covers:
+      ac:
+        - REQ-3/AC-2
+  - key: hotel
+    section: 3
+    writes:
+      - src/neustart2/hotel/**
+    covers:
+      ac:
+        - REQ-3/AC-3
+  - key: india
+    section: 4
+    writes:
+      - src/neustart2/india/**
+    covers:
+      ac:
+        - REQ-3/AC-4
