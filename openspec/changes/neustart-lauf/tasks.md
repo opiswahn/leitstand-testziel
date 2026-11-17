@@ -34,6 +34,6 @@
 
 - [x] 5.1 Datei `src/neustart/echo/1.txt` mit der einzigen Zeile `1` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [x] 5.2 Datei `src/neustart/echo/2.txt` mit der einzigen Zeile `2` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
-- [ ] 5.3 Datei `src/neustart/echo/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
+- [x] 5.3 Datei `src/neustart/echo/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [ ] 5.4 Datei `src/neustart/echo/4.txt` mit der einzigen Zeile `4` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
 - [ ] 5.5 Datei `src/neustart/echo/5.txt` mit der einzigen Zeile `5` anlegen, danach im Terminal `sleep 25` ausführen (Pflicht, nicht überspringen) und die Datei in einem eigenen Commit sichern
