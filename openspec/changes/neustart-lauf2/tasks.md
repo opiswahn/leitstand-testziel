@@ -9,12 +9,12 @@
 
 ## 2. Ordner golf
 
-- [ ] 2.1 Datei `src/neustart2/golf/1.txt` mit der einzigen Zeile `1` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
-- [ ] 2.2 Datei `src/neustart2/golf/2.txt` mit der einzigen Zeile `2` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
-- [ ] 2.3 Datei `src/neustart2/golf/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
-- [ ] 2.4 Datei `src/neustart2/golf/4.txt` mit der einzigen Zeile `4` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
-- [ ] 2.5 Datei `src/neustart2/golf/5.txt` mit der einzigen Zeile `5` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
-- [ ] 2.6 Datei `src/neustart2/golf/6.txt` mit der einzigen Zeile `6` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.1 Datei `src/neustart2/golf/1.txt` mit der einzigen Zeile `1` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.2 Datei `src/neustart2/golf/2.txt` mit der einzigen Zeile `2` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.3 Datei `src/neustart2/golf/3.txt` mit der einzigen Zeile `3` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.4 Datei `src/neustart2/golf/4.txt` mit der einzigen Zeile `4` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.5 Datei `src/neustart2/golf/5.txt` mit der einzigen Zeile `5` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
+- [x] 2.6 Datei `src/neustart2/golf/6.txt` mit der einzigen Zeile `6` anlegen, danach im Terminal genau `python3 -c "import time; time.sleep(30)"` im Vordergrund ausführen und warten, bis es endet (Pflicht, nicht im Hintergrund, nicht überspringen), erst dann die Datei in einem eigenen Commit sichern
 
 ## 3. Ordner hotel
 
